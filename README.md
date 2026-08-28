@@ -36,6 +36,8 @@ A systematic study of why knowledge distillation works, investigating the relati
 ### PCB — Physical Commonsense Benchmark for Generated Videos
 **Ongoing Research**
 
+[Code](https://github.com/chenqiguo/PCBench)
+
 A benchmark and automatic evaluation framework for assessing the physical plausibility of generated videos.
 
 The project integrates **video object tracking and segmentation, structured physical-state extraction, LLM-based equation discovery, physical-law fitting, and human-aligned evaluation**, with real videos, generated videos, and controllable physics perturbations.
